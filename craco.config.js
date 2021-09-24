@@ -1,0 +1,7 @@
+module.export = {
+  webpack: {
+    alies: {
+      "@": ''
+    }
+  }
+}
